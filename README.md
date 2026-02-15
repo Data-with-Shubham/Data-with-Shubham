@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **shubhamharishwagh@gmail.com** For Collaboration/Project o
 
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Data-with-Shubham
+[![trophy](https://github-profile-trophy.vercel.app/?username=Data-with-Shubham&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
