@@ -1,5 +1,10 @@
-# 💫 Hi 👋, I'm Shubham Wagh 
-**A passionate GCP Data Engineer**
+# Hi 👋 I'm Shubham Wagh
+🎯 Aspiring Data Engineer (GCP)
+💻 Skills: Python, SQL, GCP Cloud, Pyspark 
+☁️ Tools: BigQuery, Cloud Storage, Dataflow  
+📊 Projects: Data Pipelines, ETL, Realtime Data Pipeline  
+
+📫 Email: your@email.com
 
 Email Me 👉 ✉️ **shubhamharishwagh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,14 +15,33 @@ Email Me 👉 ✉️ **shubhamharishwagh@gmail.com** For Collaboration/Project o
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ! ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Dataproc](https://img.shields.io/badge/Dataproc-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![GCS](https://img.shields.io/badge/Cloud%20Storage-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+!![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 # 📊 GitHub Stats:
 
