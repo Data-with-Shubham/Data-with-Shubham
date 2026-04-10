@@ -4,13 +4,11 @@
 ☁️ Tools: BigQuery, Cloud Storage, Dataflow  
 📊 Projects: Data Pipelines, ETL, Realtime Data Pipeline  
 
-📫 Email: your@email.com
+
 
 Email Me 👉 ✉️ **shubhamharishwagh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-## 🏆 GitHub Trophies
-[![trophy] https://github-profile-trophy.vercel.app/?username=Data-with-Shubham=aura
 
 
 
